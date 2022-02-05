@@ -12,12 +12,15 @@ import java.util.Scanner;
  */
 public class CardGame {
     
-    System.out.println("I am editing the code in Github. Hello - I am Ashe, and this is my first time using Github. I am excited to continue using this resource.");
-
+    
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
+        //I'm DONE!!
+        System.out.println("I am editing the code in Github. Hello - I am Ashe, and this is my first time using Github. I am excited to continue using this resource.");
+
            Scanner input = new Scanner(System.in);
            
            Value[] cardValues = Value.values();
