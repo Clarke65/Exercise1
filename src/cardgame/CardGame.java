@@ -11,6 +11,8 @@ import java.util.Scanner;
  * @author Ashley Clarke Feb 4 2022
  */
 public class CardGame {
+    
+    System.out.println("I am editing the code in Github. Hello - I am Ashe, and this is my first time using Github. I am excited to continue using this resource.");
 
     /**
      * @param args the command line arguments
